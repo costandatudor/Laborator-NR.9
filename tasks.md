@@ -1,0 +1,3 @@
+- Sarcina 1: Crearea unui repository local
+- Sarcina 2: Lucrul pe branchuri
+- Sarcina 3: Rezolvarea conflictelor
