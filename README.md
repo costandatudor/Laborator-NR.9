@@ -1,2 +1,1 @@
-# Laborator Git
-Adaugat sectiune pentru task-uri
+Acesta este laboratorul 9 - Git
