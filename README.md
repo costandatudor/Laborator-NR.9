@@ -1,1 +1,1 @@
-Acesta este laboratorul 9 - Git
+Laborator Git - Secțiunea practică
